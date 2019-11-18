@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:@react-native-community_geolocation] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0ce7ca00ddbd831818de14f5b8cab0b6\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\52eed25e8008710913a5dfd47d09a497\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0f984dfb3e437cfe92b757877e769347\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\d3c4e690b162b9f4bfff1cb122963311\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\796a3ec30e9dc9f5f4782e6c0db01556\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b032396342c2e9da6f6766184b7afadb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\6661d37faa8edabcb3fb6e67157fd8c1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\fe81a08103e3b1487d6014b77ce92889\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\af485544add76e6767b6dbc86e3e856c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f743efaca790c2ce37a4548af444632f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2fdcd4e4607a67663ac91faac7f7252\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\3cd061448d11177b78f74ffbfc0747ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\81d54b306e2b4838121891fec89280ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\2985805acf2afb1a97c913913c772423\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\c2752960958e3b0eeae4bfb72892a11d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\12e86a6f06a1f2df3ad6a3b60a4e1f39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\032c11d4f0b90cd4a8ebb818ce6a3cdd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2ac9d44c22a3b5bded710e570763e79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\7f11d38725d094c86320eff42d5c5a84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\ed18f31b4aae7b936420fc43f1ff5943\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\82419aac249d30bff89c84a0169b764f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\248e79b8c980cba4b2aa3508c8aee26e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9627f72ffb6bfc84b9bc813663f64f49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\6d4885415f52a934e8e304676efa1302\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04e631576a009e49d176c77cf8efab81\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04c3c27b4bcbe5d44bf2a114cb86042c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\dd517c88e2ab34a49f36e92d25d6a633\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9411df8cce71f308946fb1708b48c47f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b02bf3c82b0bc2014b08b862ce23be17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9ad920dd6c33bda15e7a034f5dd4fb76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\450b6eb6d473f4179fe2b17fc5289dfd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\59266552594f2366d069e14f21022a1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\4006e5c73b974879522971cfb46d7d5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\41bf7f2be695211ba5a71ed8c5ce1b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f9307f21303c7a556018c34bc1b37d90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\825bbeeb4993c3a3cb2aabf85b511c43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0c9539a755b9091b0af88728b8b18f99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f85a2b8de930ee9978456495c45c1993\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.4] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0ce7ca00ddbd831818de14f5b8cab0b6\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0ce7ca00ddbd831818de14f5b8cab0b6\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2fdcd4e4607a67663ac91faac7f7252\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2fdcd4e4607a67663ac91faac7f7252\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04c3c27b4bcbe5d44bf2a114cb86042c\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04c3c27b4bcbe5d44bf2a114cb86042c\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\dd517c88e2ab34a49f36e92d25d6a633\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\dd517c88e2ab34a49f36e92d25d6a633\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04c3c27b4bcbe5d44bf2a114cb86042c\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:8:75-114
+	android:roundIcon
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:11:7-52
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:8:54-74
+	android:icon
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:12:7-34
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:8:18-53
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.reporttheft.MainActivity
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_geolocation] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0ce7ca00ddbd831818de14f5b8cab0b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0ce7ca00ddbd831818de14f5b8cab0b6\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\52eed25e8008710913a5dfd47d09a497\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\52eed25e8008710913a5dfd47d09a497\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0f984dfb3e437cfe92b757877e769347\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0f984dfb3e437cfe92b757877e769347\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\d3c4e690b162b9f4bfff1cb122963311\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\d3c4e690b162b9f4bfff1cb122963311\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\796a3ec30e9dc9f5f4782e6c0db01556\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\796a3ec30e9dc9f5f4782e6c0db01556\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b032396342c2e9da6f6766184b7afadb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b032396342c2e9da6f6766184b7afadb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\6661d37faa8edabcb3fb6e67157fd8c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\6661d37faa8edabcb3fb6e67157fd8c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\fe81a08103e3b1487d6014b77ce92889\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\fe81a08103e3b1487d6014b77ce92889\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\af485544add76e6767b6dbc86e3e856c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\af485544add76e6767b6dbc86e3e856c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f743efaca790c2ce37a4548af444632f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f743efaca790c2ce37a4548af444632f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2fdcd4e4607a67663ac91faac7f7252\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2fdcd4e4607a67663ac91faac7f7252\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\3cd061448d11177b78f74ffbfc0747ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\3cd061448d11177b78f74ffbfc0747ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\81d54b306e2b4838121891fec89280ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\81d54b306e2b4838121891fec89280ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\2985805acf2afb1a97c913913c772423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\2985805acf2afb1a97c913913c772423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\c2752960958e3b0eeae4bfb72892a11d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\c2752960958e3b0eeae4bfb72892a11d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\12e86a6f06a1f2df3ad6a3b60a4e1f39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\12e86a6f06a1f2df3ad6a3b60a4e1f39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\032c11d4f0b90cd4a8ebb818ce6a3cdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\032c11d4f0b90cd4a8ebb818ce6a3cdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2ac9d44c22a3b5bded710e570763e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b2ac9d44c22a3b5bded710e570763e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\7f11d38725d094c86320eff42d5c5a84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\7f11d38725d094c86320eff42d5c5a84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\ed18f31b4aae7b936420fc43f1ff5943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\ed18f31b4aae7b936420fc43f1ff5943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\82419aac249d30bff89c84a0169b764f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\82419aac249d30bff89c84a0169b764f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\248e79b8c980cba4b2aa3508c8aee26e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\248e79b8c980cba4b2aa3508c8aee26e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9627f72ffb6bfc84b9bc813663f64f49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9627f72ffb6bfc84b9bc813663f64f49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\6d4885415f52a934e8e304676efa1302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\6d4885415f52a934e8e304676efa1302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04e631576a009e49d176c77cf8efab81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04e631576a009e49d176c77cf8efab81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04c3c27b4bcbe5d44bf2a114cb86042c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\04c3c27b4bcbe5d44bf2a114cb86042c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\dd517c88e2ab34a49f36e92d25d6a633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\dd517c88e2ab34a49f36e92d25d6a633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9411df8cce71f308946fb1708b48c47f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9411df8cce71f308946fb1708b48c47f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b02bf3c82b0bc2014b08b862ce23be17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\b02bf3c82b0bc2014b08b862ce23be17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9ad920dd6c33bda15e7a034f5dd4fb76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\9ad920dd6c33bda15e7a034f5dd4fb76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\450b6eb6d473f4179fe2b17fc5289dfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\450b6eb6d473f4179fe2b17fc5289dfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\59266552594f2366d069e14f21022a1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\59266552594f2366d069e14f21022a1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\4006e5c73b974879522971cfb46d7d5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\4006e5c73b974879522971cfb46d7d5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\41bf7f2be695211ba5a71ed8c5ce1b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\41bf7f2be695211ba5a71ed8c5ce1b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f9307f21303c7a556018c34bc1b37d90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f9307f21303c7a556018c34bc1b37d90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\825bbeeb4993c3a3cb2aabf85b511c43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\825bbeeb4993c3a3cb2aabf85b511c43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0c9539a755b9091b0af88728b8b18f99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\0c9539a755b9091b0af88728b8b18f99\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f85a2b8de930ee9978456495c45c1993\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Raphael\.gradle\caches\transforms-2\files-2.1\f85a2b8de930ee9978456495c45c1993\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Raphael\Documents\Git\ReportTheft\android\app\src\debug\AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] C:\Users\Raphael\Documents\Git\ReportTheft\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
