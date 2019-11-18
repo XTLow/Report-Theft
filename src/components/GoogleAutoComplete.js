@@ -12,7 +12,7 @@ export default class GoogleAutoComplete extends Component{
                         this.props.valueChanged(details);
                     }}                     
                     query={{                        
-                        key: 'AIzaSyBSy6Y_774JJGRXf5sjdmY_g_5BhFBPTKE',
+                        key: '',
                         language: 'en',                         
                     }}          
                     textInputProps={{
